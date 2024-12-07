@@ -4,6 +4,8 @@ An efficient chess AI agent for the FIDE & Google Kaggle competition.
 
 https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge
 
+![Competition Overview](competition_image.png)
+
 ## Features
 
 - Resource-efficient chess engine (< 5 MiB RAM, single 2.20GHz CPU core)
