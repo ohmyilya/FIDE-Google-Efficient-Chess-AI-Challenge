@@ -1,6 +1,4 @@
 """
-Author: Ilya (https://www.ilyaaa.com/)
-Support: https://www.ilyaaa.com/support
 FIDE-Google Efficient Chess AI Challenge Agent
 This agent implements a resource-efficient chess AI within the competition constraints:
 - 5 MiB RAM
